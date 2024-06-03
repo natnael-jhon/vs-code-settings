@@ -1,0 +1,32 @@
+{
+    "workbench.colorTheme": "Theme Darker",
+    "[scss]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "explorer.confirmDelete": false,
+    "bootstrapIntelliSense.version": "Bootstrap v5.3",
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.editorAssociations": {
+        "*.pyc": "default"
+    },
+    "workbench.iconTheme": "vscode-icons",
+    "liveServer.settings.CustomBrowser": "firefox",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.fontFamily": "Dank Mono, Fira Code",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 16,
+    "editor.fontWeight": "700",
+    "terminal.integrated.fontWeightBold": "bold",
+    "terminal.integrated.fontWeight": "bold",
+    "terminal.integrated.fontSize": 14,
+    "explorer.confirmDragAndDrop": false,
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "explorer.confirmPasteNative": false
+
+}
