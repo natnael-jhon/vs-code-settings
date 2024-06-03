@@ -15,7 +15,7 @@ To apply these settings to your own VS Code setup, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/vscode-settings.git
+    git clone https://github.com/natnael-jhon/vs-code-settings.git
     ```
 
 2. **Copy the `settings.json` file to your VS Code settings directory:**
